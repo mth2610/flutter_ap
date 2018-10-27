@@ -1,6 +1,6 @@
 # flutter_apod
 
-A new Flutter project.
+A Flutter project for discorvering astromomy picture from Nasa's Apod api.
 
 ## Getting Started
 
